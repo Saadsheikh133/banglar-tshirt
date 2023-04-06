@@ -1,0 +1,15 @@
+.t-shirt{
+    
+    padding: 10px;
+    border: 1px solid burlywood;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+}
+
+.t-shirt img {
+    width: 250px;
+    border-radius: 15px;
+}
+
